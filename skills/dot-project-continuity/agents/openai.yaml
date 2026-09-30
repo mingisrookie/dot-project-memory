@@ -1,0 +1,4 @@
+interface:
+  display_name: "dot Project Continuity"
+  short_description: "Keep project context current, relevant, and separate"
+  default_prompt: "Use $dot-project-continuity to resume this project using its current scope and verified progress."
